@@ -2,7 +2,7 @@
 
 #### Pull image
 ```bash
-docker pull zensam/jenkins[:TAG]
+docker pull huitseeker/jenkins[:TAG]
 ```
 
 #### Run container
